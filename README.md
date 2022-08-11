@@ -32,7 +32,7 @@ const App = () => {
 export default App
 ```
 
-*Discover how the custom cursor works on my blog*
+*Discover how the custom cursor works on my [blog](https://blogs.sayuri.tech/customise-cursor)*
 ## License
 
 MIT © [SAYUK09](https://github.com/SAYUK09)
