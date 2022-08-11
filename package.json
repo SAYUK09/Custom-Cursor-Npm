@@ -1,10 +1,10 @@
 {
   "name": "customized-cursor",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "author": "SAYUK09",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/SAYUK09/Custom-Cursor-Npm",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",

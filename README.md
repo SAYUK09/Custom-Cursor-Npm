@@ -1,4 +1,4 @@
-# custom-cursor-sayuk
+# Custom Cursor
 
 > 
 
@@ -7,22 +7,28 @@
 ## Install
 
 ```bash
-npm install --save custom-cursor-sayuk
+npm install --save customized-cursor
 ```
+
+
 
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
+import React from 'react'
 
-import MyComponent from 'custom-cursor-sayuk'
+import { CustomCursor } from 'customized-cursor'
 import 'custom-cursor-sayuk/dist/index.css'
 
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
+const App = () => {
+  return (
+    <div>
+      <CustomCursor />
+    </div>
+  )
 }
+
+export default App
 ```
 
 ## License
