@@ -1,6 +1,6 @@
 {
-  "name": "custom-cursor-sayuk",
-  "version": "1.0.0",
+  "name": "customized-cursor",
+  "version": "1.0.8",
   "description": "",
   "author": "SAYUK09",
   "license": "MIT",
@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^18.0.2"
   },
   "devDependencies": {
     "microbundle-crl": "^0.13.10",
