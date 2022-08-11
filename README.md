@@ -10,7 +10,8 @@
 npm install --save customized-cursor
 ```
 
-
+## Demo
+![Demo Video](https://cdn.loom.com/sessions/thumbnails/1dfff47c1edc4d678f7f2cf69060a9e0-with-play.gif)
 
 ## Usage
 
@@ -31,6 +32,7 @@ const App = () => {
 export default App
 ```
 
+*Discover how the custom cursor works on my blog*
 ## License
 
 MIT © [SAYUK09](https://github.com/SAYUK09)
